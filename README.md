@@ -19,7 +19,8 @@
 GitHub Repository:
 
 ```text
-https://github.com/gowthamrajasekar89-crypto/probdist_lab.git```
+https://github.com/gowthamrajasekar89-crypto/probdist_lab.git
+```
 
 Replace this link with your final GitHub repository link.
 
