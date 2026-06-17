@@ -25,6 +25,7 @@ GitHub Repository:
 ##  Live Application
 
 ## https://probdistlab-klwjjk8hdfdzksywemnfbz.streamlit.app ##
+Please set the toolkit interface to light mode. 
 
 ---
 
