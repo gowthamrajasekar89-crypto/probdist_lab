@@ -28,17 +28,7 @@ Replace this link with your final GitHub repository link.
 
 ##  Live Application
 
-Access the deployed application here:
-
-```text
-Add your Streamlit deployment link here
-```
-
-Example:
-
-```text
-https://your-app-name.streamlit.app/
-```
+## https://probdistlab-klwjjk8hdfdzksywemnfbz.streamlit.app ##
 
 ---
 
